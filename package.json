@@ -2,7 +2,7 @@
   "name": "martin_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fr1k1.github.io/fr1k1.github.io./",
+  "homepage": "https://fr1k1.github.io/martinfriscic",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
