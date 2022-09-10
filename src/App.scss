@@ -1,0 +1,22 @@
+$primary: #ffd700;
+
+@import "animate.css";
+
+@font-face {
+  font-family: "Helvetica Neue";
+  src: url("./other/fonts/helvetica-neu.ttf") format ("ttf");
+}
+
+@font-face {
+  font-family: "La Belle Aurore";
+  src: url("./other/fonts/LaBelleAurore.woff2") format ("woff2");
+}
+
+@font-face {
+  font-family: "Coolvetica";
+  src: url("./other/fonts/CoolveticaRg-Regular.woff2") format ("woff2");
+}
+
+input, textarea {
+  font-family: "Helvetica Neue" ;
+}
