@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fr1k1.github.io./static/css/main.4e8e583a.css",
-    "main.js": "/fr1k1.github.io./static/js/main.c0c1a4ea.js",
-    "static/media/helvetica-neu.ttf": "/fr1k1.github.io./static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/fr1k1.github.io./static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/fr1k1.github.io./static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/fr1k1.github.io./index.html",
-    "main.4e8e583a.css.map": "/fr1k1.github.io./static/css/main.4e8e583a.css.map",
-    "main.c0c1a4ea.js.map": "/fr1k1.github.io./static/js/main.c0c1a4ea.js.map"
+    "main.css": "/martinfriscic/static/css/main.897537f3.css",
+    "main.js": "/martinfriscic/static/js/main.c0c1a4ea.js",
+    "static/media/helvetica-neu.ttf": "/martinfriscic/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/martinfriscic/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/martinfriscic/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/martinfriscic/index.html",
+    "main.897537f3.css.map": "/martinfriscic/static/css/main.897537f3.css.map",
+    "main.c0c1a4ea.js.map": "/martinfriscic/static/js/main.c0c1a4ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e8e583a.css",
+    "static/css/main.897537f3.css",
     "static/js/main.c0c1a4ea.js"
   ]
 }
